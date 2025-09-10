@@ -1,1 +1,3 @@
 # PyShop
+
+Django project
